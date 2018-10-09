@@ -1,0 +1,10 @@
+{
+    "id": "ObjectId()",
+    "user_id": "ObjectId()",
+    "subscribe": [{
+        "game_id": "ObjectId()",
+        "game_name": "",
+        "lt_game_price": 0,
+        "update_time": 123123123123213
+    }]
+}
